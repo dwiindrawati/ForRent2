@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "47031367327",
+    "firebase_url": "https://forrent-d4549.firebaseio.com",
+    "project_id": "forrent-d4549",
+    "storage_bucket": "forrent-d4549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47031367327:android:23ef9ad868da7f7f",
+        "android_client_info": {
+          "package_name": "com.example.ins.forrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47031367327-s6acr0rgb6bnmb9mr52lcoek7khh0sl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ins.forrent",
+            "certificate_hash": "3c3cafb6aeafa6bf2be4462ee29de186d96ed408"
+          }
+        },
+        {
+          "client_id": "47031367327-ab8rfa2stgkjkd66qpag2g4pmc8r6gp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHRJEch5kodhjaRWrtbSNiDvgFyfVCVIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47031367327-ab8rfa2stgkjkd66qpag2g4pmc8r6gp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
